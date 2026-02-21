@@ -162,12 +162,10 @@ footer{text-align:center;padding:20px;background:#0b3c6d;color:#fff}
   .team-card img{
     width: 100%;
     max-width: 260px;
-  }
-
 }
 
 #about em{
-  color: #1f7a4d important;
+  color: #1f7a4d !important;
   font-style: italic;
 }
 
