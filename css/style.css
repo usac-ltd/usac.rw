@@ -164,7 +164,8 @@ footer{text-align:center;padding:20px;background:#0b3c6d;color:#fff}
     max-width: 260px;
   }
 
-.bracket-text{
-  color: #1f7a4d;   /* your website green */
+em{
+  color: #1f7a4d;
+  font-style: italic;
 }
 
